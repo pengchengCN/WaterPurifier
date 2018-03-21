@@ -124,6 +124,7 @@ html{
 
 .homelogo{
 	/* max-width: 400px; */
+	display: none;
 	height: auto;
 	padding: 10px;
 	position: absolute;
@@ -221,7 +222,6 @@ footer>.container>.row>p>a {
 footer>.container>.row>p>a:hover  {
 	color: #f33;
 }
-
 @media (max-width: 680px) {
 	.pagination-lg > li > a, .pagination-lg > li > span {
 		padding: 10px 12px;

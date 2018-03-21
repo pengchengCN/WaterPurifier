@@ -486,7 +486,7 @@ body {
   -ms-transition-timing-function: ease-in;
   transition-timing-function: ease-in;
 }
-.carousel-fade .carousel-inner .item > img {
+.carousel-fade .carousel-inner .item img {
   left: 0;
   position: relative;
   max-width: 1000000000%;
