@@ -124,7 +124,7 @@ html{
 
 .homelogo{
 	/* max-width: 400px; */
-	display: none;
+	/* display: none; */
 	height: auto;
 	padding: 10px;
 	position: absolute;
